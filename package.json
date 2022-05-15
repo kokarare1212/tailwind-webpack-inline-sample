@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-webpack-inline-sample",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "scripts": {
+    "build": "npx webpack"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "css-loader": "^6.7.1",
+    "html-inline-script-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^5.5.0",
+    "postcss": "^8.4.13",
+    "postcss-loader": "^6.2.1",
+    "style-loader": "^3.3.1",
+    "tailwindcss": "^3.0.24",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
